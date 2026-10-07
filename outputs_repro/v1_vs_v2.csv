@@ -1,0 +1,4 @@
+,overrides_per_episode,illegal_rate,mean_cost_M,mean_online
+v1 (prev_on only),110.2,0.03001089324618736,42.35366771848873,37.35555555555555
+"v2 (constraint clocks), checkpoint used in Section 5.6",70.0,0.019063180827886706,35.39876191378166,33.35208333333334
+"v2 (constraint clocks), baseline checkpoint ppo_a",91.4,0.02489106753812636,36.67341758920824,33.6625
